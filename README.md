@@ -3,12 +3,13 @@ The Task Manager is a web application designed to help users efficiently organiz
 ## Build with:
     React + vite
 
+#### Issues:
+    Login Portal Functionality Not Implemented
+
 # Installation
-  #### Open your terminal and run the following command to create a new Vite project with React:
-        npm create vite@latest
-#### Navigate to the Project Directory:
-    cd fooddelivery
 #### Install Dependencies:
     npm install
 #### Start the Development Server:
     npm run dev
+#### Created By Jannat Faisal:
+  
